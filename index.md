@@ -1,13 +1,5 @@
-## Hello World 
+# Hello World 
 
-```python
+## This is a test page for github pages. 
 
-import boto3 
-import json 
-
-def function():
-
-```
-
-
-... 
+I appriciate it.
